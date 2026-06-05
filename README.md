@@ -1,4 +1,5 @@
 # ⚡ AutoML Studio
+![Alt Text](S.png)
 ![Alt Text](S1.png)
 ![Alt Text](S2.png)
 ![Alt Text](S3.png)
